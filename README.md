@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hola, soy Yamil 👋
 
-<!--
-**studiareCS/studiareCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+¡Bienvenido a mi perfil! Soy un estudiante de ciencias de la computación apasionado por la inteligencia artificial. Me encanta la programación competitiva, las matemáticas y los videojuegos, y siempre estoy en constante aprendizaje sobre cualquier tema relacionado a la computación.
 
-Here are some ideas to get you started:
+## Habilidades
+- 🛠️ **Lenguajes de Programación:** Python, C++, C#, C
+- 📚 **Herramientas y Tecnologías:** Visual Studio Code, Visual Studio, Codeblocks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto
+- 📧 **Email:** yamil.aucca.q@gmail.com
+- 💼 **LinkedIn:** www.linkedin.com/in/yamil-dylan-aucca-quispe
+
+---
+¡Gracias por visitar mi perfil! 😺
